@@ -5,1792 +5,1792 @@
 	"label": "IIIF Collection for 19th Century American Writers at Middlebury College Special Collections.",
 	"manifests": [
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.adamscf.1861.02.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.adamscf.1861.02.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Francis Adams to Maria Chandler Ellis"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-adamsh-xx/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-adamsh-xx/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry Adams to Lotty"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-adamsjq-1820-01-25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-adamsjq-1820-01-25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Quincy Adams to Isaac Tichenor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-agassizl-1853-07-07/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-agassizl-1853-07-07/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Louis Agassiz to Miss Arnold"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-agassizl-1855-02-14/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-agassizl-1855-02-14/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Louis Agassiz to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.aldrichtb.1888.12.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.aldrichtb.1888.12.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Bailey Aldrich to Laurence"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.aldrichtb.1904.01.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.aldrichtb.1904.01.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Bailey Aldrich to R. H. Russell"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.allibonesa.1886.10.30/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.allibonesa.1886.10.30/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel A. Allibone to Charles Burr Todd"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.bancroftg.1843.01.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.bancroftg.1843.01.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Bancroft to H.H. Parsons"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.bancroftg.1865.06.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.bancroftg.1865.06.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Bancroft to George Washington Greene"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.biercea.1876.03.27/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.biercea.1876.03.27/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Ambrose Bierce to Henry Lee, March 27, 1876"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.biercea.1913.01.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.biercea.1913.01.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Ambrose Bierce to Walter Neale, Jan. 9, 1913"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.blakehgo.1892.03.17/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.blakehgo.1892.03.17/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Harrison Gray Otis Blake to Charles Mortimer"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.blakehgo.1893.04.17/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.blakehgo.1893.04.17/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Harrison Gray Otis Blake to Charles Mortimer, April 17, 1893"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.brooksp.1892.04.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.brooksp.1892.04.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Phillips Brooks to Miss Derby"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.brownejh.1889.10.14/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.brownejh.1889.10.14/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Junius Henri Browne to Joseph Marshall Stoddart"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.bryantwc.1817.03.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.bryantwc.1817.03.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Cullen Bryant to John E. Howard"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.bryantwc.1876.06.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.bryantwc.1876.06.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Cullen Bryant to an unknown poet"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1878.09.29/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1878.09.29/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Burroughs to Walt Whitman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1880.02.26/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1880.02.26/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Burroughs to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1884.12.14/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1884.12.14/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Burroughs to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1915.10.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1915.10.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Burroughs to James C. More"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1917.10.27/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1917.10.27/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Burroughs to James C. More"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1919.03.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1919.03.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Burroughs to Mrs. John D. Patten"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1919.04.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1919.04.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Burroughs to Mrs. John D. Patten"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1919.08.01/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1919.08.01/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Burroughs to Mrs. John D. Patten"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1920.02.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1920.02.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Burroughs to James C. More"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1920.05.22/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.burroughsj.1920.05.22/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Burroughs to Mrs. John D. Patten"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clarklg.1839.05.18/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clarklg.1839.05.18/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lewis Gaylord Clark to William Henry Seward"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1880.09.15/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1880.09.15/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to Thomas Bailey Aldrich"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1873.09.10/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1873.09.10/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to W. S. Andrews"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1874.03.28/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1874.03.28/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to W. S. Andrews"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1874.12.18/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1874.12.18/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to Thomas Bailey Aldrich"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1877.04.08/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1877.04.08/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to Edwina Booth Grossman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1877.06.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1877.06.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to Thomas Bailey Aldrich"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1878.07.30/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1878.07.30/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to Mr. Tyler"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1885.03.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1885.03.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to Roswell Smith"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.18xx.01.28/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.18xx.01.28/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to Miss Higgins"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1906.01.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.1906.01.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to Fred J. Hall"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.xx/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.xx/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to Thomas Bailey Aldrich"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.xx.06.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.xx.06.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to James Gordon Bennett"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.xx2/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.xx2/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to Thomas Bailey Aldrich"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.xx3/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.clemenssl.xx3/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Langhorne Clemens to Edwin Thomas Booth"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.cooperjf.1828.04.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.cooperjf.1828.04.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Fenimore Cooper to John Bowring"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.cooperjf.1831.04.06/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.cooperjf.1831.04.06/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Fenimore Cooper to Colburne and Bentley"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.cooperjf.1831.12.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.cooperjf.1831.12.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Fenimore Cooper to C. Henry"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.cooperjf.1850.01.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.cooperjf.1850.01.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Fenimore Cooper to Sara Heyward Cruger"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.cranes.1896.03.31/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.cranes.1896.03.31/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Stephen Crane to \"Copeland and Day\""
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1846-12-01b/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1846-12-01b/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Henry Dana to Rev. R. C. Waterston"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1851-05-24b/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1851-05-24b/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Henry Dana to J. M. Earle"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1851-10-18b/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1851-10-18b/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Henry Dana to Mrs. Henry Wheaton"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1853-02-12b/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1853-02-12b/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Henry Dana to Capt. Eben Caldwell"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1854-02-19b/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1854-02-19b/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Henry Dana to Capt. Eben Caldwell"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1857-03-07b/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1857-03-07b/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Henry Dana to Hon. J. Livermore"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1859-09-18b/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1859-09-18b/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Henry Dana to Hon. J. Livermore"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/Aberms-danarhii-1869-06-04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/Aberms-danarhii-1869-06-04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Henry Dana to Fields, Osgood, & Co."
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1870-11-16b/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1870-11-16b/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Henry Dana to Joseph A. Holmes"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1878-07-19/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1878-07-19/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Henry Dana to J. J. Storrow"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-18xx-04-14/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-18xx-04-14/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Henry Dana to George Livermore"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.duganneajh.1878.08.29/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.duganneajh.1878.08.29/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Augustine Joseph Hickey Duganne to \"Republican\""
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-egglestone-1873-05-01/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-egglestone-1873-05-01/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edward Eggleston to Charles H. Phillips"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-egglestone-1900-07-23/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-egglestone-1900-07-23/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edward Eggleston to Julian Willis Abernethy, July 23, 1900"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-egglestone-1900-08-04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-egglestone-1900-08-04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edward Eggleston to Julian Willis Abernethy"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/Aberms-egglestone-1901-08-14/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/Aberms-egglestone-1901-08-14/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edward Eggleston to Julian Willis Abernethy"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-egglestongc-1881-12-26/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-egglestongc-1881-12-26/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Cary Eggleston to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.emersonew.1898.12.08_images/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.emersonew.1898.12.08_images/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edward Waldo Emerson to Charles W. Fullerton"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1903.08.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1903.08.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Evans to Reverend Louis F. Benson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1903.11.30/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1903.11.30/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Evans to Reverend Louis F. Benson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1905.05.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1905.05.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Evans to Reverend Louis F. Benson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1906.05.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1906.05.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Evans to Reverend Louis F. Benson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1907.10.07/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1907.10.07/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Evans to Reverend Louis F. Benson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1910.08.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1910.08.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Evans to Reverend Louis F. Benson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1910.12.22/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.evansc.1910.12.22/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Evans to Reverend Louis F. Benson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.feltoncc.1860.05.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.feltoncc.1860.05.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Cornelius Conway Felton to Joseph Green Cogswell"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.thomasjt.1876.03.13/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.thomasjt.1876.03.13/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Thomas Fields to A. H. Dooley"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.flaggw.1878.04.28/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.flaggw.1878.04.28/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wilson Flagg to Mr. Prince"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/a1ms_fowlerw_18281210/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/a1ms_fowlerw_18281210/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Chauncey Fowler"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/a1ms_fowlerw_18300101/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/a1ms_fowlerw_18300101/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Chauncey Fowler"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.francisc.1844.06.22-29/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.francisc.1844.06.22-29/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Convers Francis to Theodore Parker"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.furnesshh.1885.05.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.furnesshh.1885.05.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Horace Howard Furness to \"Mr. Krauth\""
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.garrisonwl.1893.11.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.garrisonwl.1893.11.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Lloyd Garrison to Mrs. Emerton"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.garrisonwl.18xx/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.garrisonwl.18xx/manifest.json",
         "@type": "sc:Manifest",
         "label": "William Lloyd Garrison letter fragment to Daniel Ricketson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/C131b2f23_1878_07_11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/C131b2f23_1878_07_11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Lloyd Garrison to Rowland T. Robinson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.goughjb.1873.08.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.goughjb.1873.08.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Bartholomew Gough to James Redpath"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.greeleyh.1847.02.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.greeleyh.1847.02.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Horace Greeley to Henry David Thoreau"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.halleckfg.1852.07.26/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.halleckfg.1852.07.26/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Fitz-Greene Halleck to Benson John Lossing, July 26, 1852"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.harteb.1880.01.07/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.harteb.1880.01.07/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Bret Harte to Anna Griswold Harte"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.harteb.xx/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.harteb.xx/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Bret Harte to Mrs. Henschel"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornej.1874.04.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornej.1874.04.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Julian Hawthorne to J. R. Osgood & Co."
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornej.1899.08.17/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornej.1899.08.17/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Julian Hawthorne to George Brinton McClellan Harvey"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1819.05.18/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1819.05.18/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Nathaniel Hawthorne to Robert Manning"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1844.05.29/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1844.05.29/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Nathaniel Hawthorne to George S. Hillard"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1851.07.16/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1851.07.16/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Nathaniel Hawthorne to Zachariah Burchmore Jr."
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1852.12.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1852.12.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Nathaniel Hawthorne to Zachariah Burchmore Jr."
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1853.02.17/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1853.02.17/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Nathaniel Hawthorne to Dr. George B. Loring"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1854.09.07/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1854.09.07/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Nathaniel Hawthorne to W. C. Bennet"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1854.10.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1854.10.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Nathaniel Hawthorne to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1856.09.07/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1856.09.07/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Nathaniel Hawthorne to W. C. Bennet"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1856.11.26/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1856.11.26/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Nathaniel Hawthorne to Dr. Mackay"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1863.01.07/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornen.1863.01.07/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Nathaniel Hawthorne to William A. Wheeler"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hayneph.1860.09.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hayneph.1860.09.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Paul Hamilton Hayne to Barry Gray (Robert Barry Coffin)"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hayneph.1879.01.02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hayneph.1879.01.02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Paul Hamilton Hayne to Dr. Josiah Gilbert Holland"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hayneph.1883.09.18/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hayneph.1883.09.18/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Paul Hamilton Hayne to Edward S. Marsh"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1891.09.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1891.09.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1891.10.08/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1891.10.08/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1891.11.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1891.11.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1892.09.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1892.09.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1893.08.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1893.08.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1893.11.26/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1893.11.26/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.02.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.02.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.07.07/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.07.07/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.08.01/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.08.01/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.08.28/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.08.28/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.09.15/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.09.15/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.09.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1895.09.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder, Sept. 21, 1895"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1896.08.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1896.08.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder, Aug. 25, 1896"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1896.10.13/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1896.10.13/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1896.10.14/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1896.10.14/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1896.12.28/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1896.12.28/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1897.01.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.1897.01.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.18xx/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.18xx/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.18xx.08.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hearnl.18xx.08.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lafcadio Hearn to Horace Elisha Scudder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1866.01.16/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1866.01.16/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1875.11.28/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1875.11.28/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1876.01.07/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1876.01.07/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Mrs. Drake"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1879.06.08/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1879.06.08/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to George Washington Greene"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1883.04.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1883.04.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Jeanette Gilder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1885.01.26/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1885.01.26/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1887/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1887/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1887.10.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1887.10.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1889.04.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1889.04.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Miss A. L. Hayward"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1889.05.29/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1889.05.29/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Dr. Chadwick"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1902.05.26/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1902.05.26/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Miss Hovey"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1903.10.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1903.10.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Theodore Wentworth Higginson to Frances Campbell Sparhawk"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1905.09.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1905.09.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to N. I. Bartlett & Co."
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1905.09.27/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1905.09.27/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Bartlett & Co."
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1906.11.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1906.11.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1906.11.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1906.11.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to Miss Farsen"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1909.05.02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.higginsontw.1909.05.02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Wentworth Higginson to C. Gallup"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hollandjg.1872.07.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hollandjg.1872.07.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Josiah Gilbert Holland to Moncure Daniel Conway, July 4, 1872"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.holth.1874.12.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.holth.1874.12.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry Holt to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.howeew.1929.02.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.howeew.1929.02.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edgar Watson Howe to Mr. Cummings"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.howejw.1885.12.29/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.howejw.1885.12.29/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Julia Ward Howe to Miss Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.howejw.18xx.03.28/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.howejw.18xx.03.28/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Julia Ward Howe to Anne Charlotte Lynch Botta"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1879.01.16/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1879.01.16/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Dean Howells to Mr. Young"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1880.10.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1880.10.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Dean Howells to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1883.09.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1883.09.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Dean Howells to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1885.02.01/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1885.02.01/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Dean Howells to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1899.07.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1899.07.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Dean Howells to John Kendrick Bangs"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1903.04.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.howellswd.1903.04.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Dean Howells to Augustus Thomas"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.hudsonhn.1852.10.18/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.hudsonhn.1852.10.18/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry Norman Hudson to G. P. Putnam & Co."
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.humphreyz.1832.10.01/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.humphreyz.1832.10.01/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Zephine Humphrey to Harriet Smith Potter"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jacquesdh.1849.09.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jacquesdh.1849.09.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from D. H. Jacques to the Boston Union of Associationists"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshi.1847.11.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshi.1847.11.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to John Sullivan Dwight"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshi.1858.10.02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshi.1858.10.02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to Franklin Benjamin Sanborn"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1879.06.07/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1879.06.07/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1888.03.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1888.03.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1890.07.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1890.07.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1893.05.01/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1893.05.01/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to Sir Edmund William Gosse"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1896.07.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1896.07.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to Sir Edmund William Gosse"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1904.09.08/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1904.09.08/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to Le Roy Phillips"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1905.12.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1905.12.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to David A. Munro"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1906.09.26/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.1906.09.26/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to F. H. Duneka"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.xx.07.15/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.xx.07.15/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to Mr. Huntington"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.xx.08.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.xx.08.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to Lawrence Barrett"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.xx.10.06/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jameshii.xx.10.06/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry James to Mrs. Lynton"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jamesw.1899.05.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jamesw.1899.05.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William James to Eliot Norton"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jappah.1877.10.31/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jappah.1877.10.31/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Alexander Hay Japp to A. H. Dooley"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jeffersonj.1882.11.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jeffersonj.1882.11.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Joseph Jefferson to Lawrence Barrett"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.jeffersont.1790.07.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.jeffersont.1790.07.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Jefferson to Maria Jefferson, July 4, 1790"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.kayj.1845.03.14/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.kayj.1845.03.14/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Kay Jr. to John Sullivan Dwight"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.kayj.1846.05.10/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.kayj.1846.05.10/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Kay Jr. to John Sullivan Dwight, May 10, 1846"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.kayj.1846.09.27/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.kayj.1846.09.27/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Kay Jr. to Marianne Dwight Orvis, Sept. 27, 1846"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.kennedyjp.1843.07.27/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.kennedyjp.1843.07.27/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Pendleton Kennedy to Joseph C. Hodges"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.lathropgp.1876.03.17/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.lathropgp.1876.03.17/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Parsons Lathrop to A. H. Dooley"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.lathropgp.1878.09.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.lathropgp.1878.09.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Parsons Lathrop to Thomas Stephens Collier"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.lathropgp.1887.01.31/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.lathropgp.1887.01.31/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Parsons Lathrop to Laurence Hutton"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.lathropgp.1888.03.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.lathropgp.1888.03.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Parsons Lathrop to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.littele.1848.09.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.littele.1848.09.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Eliakim Littell to Unknown recipient"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.londonj.1905.05.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.londonj.1905.05.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Jack London to Robert Underwood Johnson, May 21, 1905"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.lossingbj.1852.07/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.lossingbj.1852.07/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Benson John Lossing to Fitz-Greene Halleck"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.lowelljr.1876.10.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.lowelljr.1876.10.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Russell Lowell to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.mackenziers.1867.12.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.mackenziers.1867.12.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter to A. [L.] Kline"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.mackenziers.1876.08.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.mackenziers.1876.08.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from R. Shelton Mackenzie to A. H. Dooley"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.mansfieldr.1895.07.26/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.mansfieldr.1895.07.26/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Richard Mansfield to Eliot Norton"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberpa.websterd.1837.marcellus/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberpa.websterd.1837.marcellus/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Marcellus to Daniel Webster"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.martineauj.1895.03.23/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.martineauj.1895.03.23/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Martineau to H. C. Beeton"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.millerj.1873.06.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.millerj.1873.06.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Joaquin Miller to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.mitchelldg.1887.04.15/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.mitchelldg.1887.04.15/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Donald Grant Mitchell to Jno. [?] E. Bowen"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.mitchellsw.xx.01.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.mitchellsw.xx.01.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Silas Weir Mitchell to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.morrislr.1796.03.16/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.morrislr.1796.03.16/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lewis Richard Morris to William Whudlow"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.muirj.1909.06.02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.muirj.1909.06.02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Muir to Francis Fisher Browne, June 2, 1909"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.muirj.1910.06.01/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.muirj.1910.06.01/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Muir to Francis Fisher Browne, June 1, 1910"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.nortona.xx/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.nortona.xx/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Andrews Norton to Robert Cassie Waterston"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.nortonce.1888.10.16/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.nortonce.1888.10.16/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Eliot Norton to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.01.16/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.01.16/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Orvis to John Sullivan Dwight"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.01.16.2/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.01.16.2/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Orvis to Marianne Dwight Orvis"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.02.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.02.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Orvis to Marianne Dwight Orvis"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.03.08/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.03.08/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Orvis to Marianne Dwight Orvis"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.03.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.03.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Orvis to Marianne Dwight Orvis"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.08.23/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.08.23/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Orvis to Marianne Dwight Orvis"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.08.31/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.08.31/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Orvis to Marianne Sullivan Dwight"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.09.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.09.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Orvis to Marianne Dwight Orvis"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.12.02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.12.02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Orvis to Marianne Dwight Orvis"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.12.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.12.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Orvis to Marianne Dwight Orvis"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.12.15/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.orvisj.1847.12.15/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Orvis to Marianne Dwight Orvis"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.osgoods.1840.08.13/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.osgoods.1840.08.13/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Osgood to John Sullivan Dwight"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.parkerg.xx/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.parkerg.xx/manifest.json",
         "@type": "sc:Manifest",
         "label": "Fragment of Letter from Sir Gilbert Parker to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.parkert.1844.11.06/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.parkert.1844.11.06/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Theodore Parker to C. C. Little and J. Brown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.parkert.1845.07.10/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.parkert.1845.07.10/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Theodore Parker to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.parkert.1858.02.16/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.parkert.1858.02.16/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Theodore Parker to William W. Goodwin"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.pauldingjk.1845.04.06/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.pauldingjk.1845.04.06/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Kirke Paulding to Henry A. Oakley"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1845.07.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1845.07.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Lucretia Coffin Mott"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1854.06.29/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1854.06.29/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Susan Brownell Anthony"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1855.06.06/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1855.06.06/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1856.08.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1856.08.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1861.08.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1861.08.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to E. G. Dudley"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1864.12.10/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1864.12.10/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Mr. Bird"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1873.04.02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1873.04.02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Mrs. M. E. Dana"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1876.12.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1876.12.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Mr. Tinker"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1881.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1881.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to S. L. R."
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1888.04.10/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.1888.04.10/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Henry James"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Mr. A. Freeman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.01.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.01.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to George Luther Stearns"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.06.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.06.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Mr. L. Griggs"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.09.16/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.09.16/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Mr. Philbrick"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.10.17/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.10.17/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Benjamin Mudge"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.11.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.11.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.11.13/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx.11.13/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Theodore Tilton"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx2/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx2/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to T. S. French"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx3/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx3/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Mr. Sullivan"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx4/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.phillipsw.18xx4/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Wendell Phillips to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1882.11.23/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1882.11.23/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Pickard to Francis Henry Underwood"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1883.04.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1883.04.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Pickard to Francis Henry Underwood"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1883.10.29/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1883.10.29/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Pickard to Francis Henry Underwood"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1883.11.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1883.11.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Pickard to Francis Henry Underwood"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1821.11.18/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1821.11.18/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Pickard to Mary Little"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1821.12.17/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.pickards.1821.12.17/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Samuel Pickard to Mary Little"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.quincyj.1856.04.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.quincyj.1856.04.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Josiah Quincy to John Greenleaf Whittier"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.redpathj.1860.02.06/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.redpathj.1860.02.06/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Redpath to Henry David Thoreau"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.richardsonad.1865.02.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.richardsonad.1865.02.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Albert Deane Richardson to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.ricketsond.1857.09.10/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.ricketsond.1857.09.10/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Daniel Ricketson to Henry David Thoreau, September 10, 1857"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.ricketsond.1869.05.15/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.ricketsond.1869.05.15/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Daniel Ricketson to Franklin Benjamin Sanborn"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.ricketsonw.08.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.ricketsonw.08.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Walton Ricketson to Franklin Benjamin Sanborn"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.ricketsonw.1878.03.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.ricketsonw.1878.03.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Walton Ricketson to A.H. Dooley"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.ricketsonw.1879.10.23/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.ricketsonw.1879.10.23/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Walton Ricketson to A.H. Dooley"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.07.29/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.07.29/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.08.14/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.08.14/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.09.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.09.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.10.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.10.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.11.06/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.11.06/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Mr. Hart"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.12.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1879.12.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1880.01.28/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1880.01.28/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1880.04.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1880.04.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1882.09.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1882.09.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1882.10.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1882.10.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1883.04.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1883.04.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1883.08.31/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1883.08.31/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1883.11.02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1883.11.02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1889.11.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1889.11.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1915.10.01/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.rileyjw.1915.10.01/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Whitcomb Riley to Howard S. Taylor"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.ripleyg.1843.11.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.ripleyg.1843.11.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Ripley to Phineas Eastman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.ripleyg.1851.07.30/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.ripleyg.1851.07.30/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Geoge Ripley to Theodore Parker"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robertscgd.1893.01.16/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robertscgd.1893.01.16/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles George Douglas Roberts to Joseph Marshall Stoddart"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1914.07.10/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1914.07.10/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to William Stanley Braithwaite"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1920.08.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1920.08.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to Esther Willard Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1920.12.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1920.12.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to Esther Willard Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1920.12.30/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1920.12.30/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to Esther Willard Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1921.01.06/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1921.01.06/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to Esther Willard Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1927.02.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1927.02.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to Esther Willard Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1927.05.17/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1927.05.17/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to Esther Willard Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1930.05.28/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1930.05.28/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to E. R. L."
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1931.08.13/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1931.08.13/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to Esther Willard Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1932.05.18/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1932.05.18/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to Esther Willard Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1933.02.26/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1933.02.26/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to Esther Willard Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1933.12.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.robinsonea.1933.12.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Arlington Robinson to Esther Willard Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/C131b55f10_1847_01_02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/C131b55f10_1847_01_02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Gilpin Robinson to Rachel Gilpin Robinson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/C131b54f11_1844_07_09_01_RER_ASR/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/C131b54f11_1844_07_09_01_RER_ASR/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Rowland E. Robinson to Ann (King) Robinson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.salths.1890.09.26/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.salths.1890.09.26/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry Stephens Salt to Daniel Ricketson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.salths.1937.02.14/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.salths.1937.02.14/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry Stephens Salt to Fred S. Piper"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.sanbornfb.1862.06.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.sanbornfb.1862.06.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Franklin Benjamin Sanborn to Calvin H. Greene"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.sanbornfb.1901.08.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.sanbornfb.1901.08.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Franklin Benjamin Sanborn to D. W. Wilder"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.sanbornfb.1901.08.12.2/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.sanbornfb.1901.08.12.2/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Franklin Benjamin Sanborn to W. T. Harris"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.sanbornfb.1913.06.02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.sanbornfb.1913.06.02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Franklin Benjamin Sanborn to C. Sidney Crane"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.thoreaus.18xx.03.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.thoreaus.18xx.03.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Sophia Thoreau to Franklin Benjamin Sanborn"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.sargente.xx/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.sargente.xx/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Epes Sargent to F. G. Whiston"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.saxejg.1855.11.17/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.saxejg.1855.11.17/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Godfrey Saxe to W. H. Kilby"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.saxejg.1870.12.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.saxejg.1870.12.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Godfrey Saxe to Miss Sanborn"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.saxejg.1871.10.23/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.saxejg.1871.10.23/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Godfrey Saxe to Messrs. R. & F."
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.scollardc.1885.03.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.scollardc.1885.03.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Clinton Scollard to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.shawhw.1880.09.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.shawhw.1880.09.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Henry Wheeler Shaw to Mrs. Seth Bateman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.shermanfd.1888.12.17/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.shermanfd.1888.12.17/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Frank Dempster Sherman to William Sheppard Walsh"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.simmsw.1854.12.22/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.simmsw.1854.12.22/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Simms to Robert Balmann"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.smithfh.1909.04.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.smithfh.1909.04.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Francis Hopkinson Smith to Carleton Young"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.sparksj.1854.10.23/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.sparksj.1854.10.23/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Jared Sparks to Alexandre Vattemare"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.spraguec.1832.03.23/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.spraguec.1832.03.23/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Sprague to J. M. Mackie"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.spraguewb.1849.08.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.spraguewb.1849.08.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Buell Sprague to Mr. J. C. Crumbaugh"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.stantont.1895.08.02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.stantont.1895.08.02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Theodore Stanton to Joseph Marshall Stoddart"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.starrettv.1834.08.03/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.starrettv.1834.08.03/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Vincent Starrett to Viola Chittenden White"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.stedmanec.1891.05.10/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.stedmanec.1891.05.10/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edmund Clarence Stedman to unknown recipient"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.stedmanec.1904.12.13/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.stedmanec.1904.12.13/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edmund Clarence Stedman to John Hay"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.sterlingg.1918.04.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.sterlingg.1918.04.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Sterling to Marguerite Ogden Bigelow Wilkinson"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.stimsonfj.1894.02.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.stimsonfj.1894.02.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Frederic Jesup Stimson to Joseph Marshall Stoddart"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.stonett.188.06.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.stonett.188.06.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Treadwell Stone to George Willis Cooke, June 12, 1882"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.stonett.1882.03.31/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.stonett.1882.03.31/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Treadwell Stone to George Willis Cooke, May 31, 1882"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.streetab.1868.04.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.streetab.1868.04.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Alfred Billings Street to Mr. Hart"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.sumernc.1850.07.31/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.sumernc.1850.07.31/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Sumner to Henry David Thoreau"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.sumnerc.1868.02.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.sumnerc.1868.02.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Note regarding Charles Sumner's Telegraph to Edwin M. Stanton"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.tabbjb.1906/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.tabbjb.1906/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Banister Tabb to Frederick Holland Day, 1906"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.tabbjb.1906.10.17/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.tabbjb.1906.10.17/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Banister Tabb to Frederick Holland Day"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.trowj.1856.01.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.trowj.1856.01.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John F. Trow to Henry David Thoreau"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.vandenhoffg.18xx.10.08/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.vandenhoffg.18xx.10.08/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Vandenhoff to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.wallacel.1881.11.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.wallacel.1881.11.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Lewis Wallace to Mr. C. A. Wells"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.wardd.1840.04.06/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.wardd.1840.04.06/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Dennis Ward to Prudence Ward"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.wardg.1837.09.28/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.wardg.1837.09.28/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Ward to Prudence Ward, Sept. 28, 1837"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.wardg.1838.04.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.wardg.1838.04.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Ward to Prudence Ward, April 12, 1838"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.wardg.1838.04.18/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.wardg.1838.04.18/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Ward to Prudence Ward, April 18, 1838"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.wardg.1839.12.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.wardg.1839.12.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Ward to Prudence Ward, Dec. 12, 1839"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.wardg.18xx.07.29/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.wardg.18xx.07.29/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from George Ward to Prudence Ward, July 29, 18--"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.warnercd.1883.05.12/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.warnercd.1883.05.12/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Dudley Warner to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.warnercd.1889.03.14/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.warnercd.1889.03.14/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Dudley Warner to Mrs. Bates"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.waterstonrc.1840.08.06/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.waterstonrc.1840.08.06/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Robert Cassie Waterston to John Sullivan Dwight"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.watsonbm.18xx.02.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.watsonbm.18xx.02.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Benjamin Marston Watson letters to Franklin Benjamin Sanborn"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.webbch.1874.09.06/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.webbch.1874.09.06/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Charles Henry Webb to Miss Booth"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.webstern.1829.06.15/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.webstern.1829.06.15/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Noah Webster to Richardson & Lord"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.wellsda.1887.11.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.wellsda.1887.11.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from David Ames Wells to F. M. Grossell"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1864-03-30b/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms-danarhii-1864-03-30b/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William A. Wheeler to Richard Henry Dana"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1863.07.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1863.07.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Adolphus Wheeler to John Greenleaf Whittier"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whippleep.1876.02.22/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whippleep.1876.02.22/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Edwin Percy Whipple to A. H. Dooley"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whistlerjam.1891.01/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whistlerjam.1891.01/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from James Abbott McNeill Whistler to Augustus Harris"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1837.04.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1837.04.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas William White to William Scott"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.05.27/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.05.27/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Willis White to B. Badger"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.07.30/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.07.30/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Willis White to the Editor of the New York Weekly Messenger"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.08.05/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.08.05/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Willis White to William Scott"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.08.16/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.08.16/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Willis White to William Scott"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.08.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.08.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Willis White to William Scott"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.09.23/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.09.23/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Willis White to William Scott"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.11.24/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.11.24/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Willis White to William Scott"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.12.07/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.12.07/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Willis White to William Scott"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.12.15/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1836.12.15/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Willis White to William Scott"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1837.01.23/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1837.01.23/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Willis White to William Scott"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1837.03.18/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitetw.1837.03.18/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Thomas Willis White to William Scott"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whitmansh.1877.08.20/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whitmansh.1877.08.20/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Sarah Helen Whitman to Charles E. Hurd"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1856.11.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1856.11.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Greenleaf Whittier to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1857.05.15/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1857.05.15/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Greenleaf Whittier to James Thomas Fields"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1864.05.19/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1864.05.19/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Greenleaf Whittier to George Washington Carleton"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1866.03.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1866.03.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Greenleaf Whittier to Lucy Larcom"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1866.04.02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1866.04.02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Greenleaf Whittier to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1870.03.30/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1870.03.30/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Greenleaf Whittier to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1873.02.02/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1873.02.02/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Greenleaf Whittier to Mrs. Sarah J. Spalding"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1879.12.08/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1879.12.08/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Greenleaf Whittier to Unknown"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1886.10.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1886.10.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Greenleaf Whittier to Mrs. Cohen"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1891.09.21/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.whittierjg.1891.09.21/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from John Greenleaf Whittier to Samuel Thomas Pickard"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.wilderdw.1901.08.29/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.wilderdw.1901.08.29/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Daniel Webster Wilder to A. H. Dooley"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.willisnp.18xx.12.25/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.willisnp.18xx.12.25/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Nathaniel Parker Willis to Mr. Hart"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.winsorj.1897.10.11/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.winsorj.1897.10.11/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from Justin Winsor to Mr. Eanison"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.winterw.1891.06.04/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.winterw.1891.06.04/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Winter to Edmund Clarence Stedman"
     },
     {
-        "@id": "http://iiif.archivelab.org/iiif/aberms.winterw.1895.12.09/manifest.json/",
+        "@id": "http://iiif.archivelab.org/iiif/aberms.winterw.1895.12.09/manifest.json",
         "@type": "sc:Manifest",
         "label": "Letter from William Winter to Benjamin Franklin Burnham"
     }
