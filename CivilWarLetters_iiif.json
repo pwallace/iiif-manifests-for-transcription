@@ -1,0 +1,348 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/pwallace/iiif-manifests-for-transcription/main/CivilWarLetters_iiif.json",
+	"@type": "sc:Collection",
+	"label": "IIIF Collection for Civil War Letters at Middlebury College Special Collections.",
+	"manifests": [
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1866_04_25/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Eliza Quilty from Julia E. Crafts"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1862_09_28/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1862_10_10/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1862_10_23/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1862_11_09/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1862_11_14/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1863_01_09/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1863_01_13/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1863_01_25/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1863_03_01/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1863_04_05-11/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1863_05_02/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1863_08_21/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1863_09_24/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1863_10_03/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1863_12_03/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1863_12_07/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1864_12_09-12/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c115_1864_12_16/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Orlando L. French to Lydia French"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c92_1862_01_06/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Henry Holt to Wilbur"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c92_1862_12_27/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from a soldier to his parents during the Civil War"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c92_1864_08_14/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from a soldier to his parents during the Civil War"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c120_1862_03_03_01/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hammond to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c120_1862_06_24_01/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hammond to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c120_186x_04_19_01/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to George Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c92_1861_10_05/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter written by a Vermont soldier during the Civil War"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c92_1863_01_15/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to a Civil War soldier"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c92_1864_04_18/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from a Civil War soldier to Mrs. Joseph Moody"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c92_1864_07_07/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from a Civil War soldier"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1854_05_07/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Eliza Quilty from Frank"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1861_08_02/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from William [McKeand?] to John Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1861_08_23/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from William [McKeand?] to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1861_11_05/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from William [McKeand?] to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1861_12_20/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from William [McKeand?] to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1862_04_10/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hammond to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1862_06_09/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hammond to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1862_07_04/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hammond to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1862_09_05/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hammond to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1863_01_05/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from William [McKeand?] to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1863_01_10/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1863_01_20/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from William [McKeand?] to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1863_03_16/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hammond to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1863_03_21/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hammond to Luke Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1863_07_18/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to George Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1863_10_21/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from William [McKeand?] to Luke Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1864_03_14/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hammond to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1866_12_27/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Dudly"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1868_03_21/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Luke Quilty from Hammond"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1869_01_23/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Eliza Quilty [?] from Charlie [Danford?]"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_186x_09_22/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hammond to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_186x_10_02/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from William [McKeand?] to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcman_c92_1862_10_20/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from a Vermont soldier to his sister during the Civil War"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcman_c49.1862.09.15/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Calvin J. Parker to Caroline Parker and Marietta Parker"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_186x_03_28/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Luke Quilty to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1862_10_xx/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Eliza Quilty to George Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_186x_04_09/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Eliza Quilty to George Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_186x_05_03/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Eliza Quilty to John Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1861_09_xx/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from George Quilty to his mother"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1864_11_10/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from George Quilty to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1864_12_04/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from George Quilty to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1864_12_16/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from George Quilty to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_186x_07_25/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from George Quilty to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_186x_08_28/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from George Quilty to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1863_05_xx/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Affidavit written by John Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c120_1866_03_15/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from John Quilty to Eliza Quilty"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c73_1862_06_xx/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Aldace Freeman Walker to Aldace and Mary Walker"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c73_1863_09_06/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Aldace Freeman Walker to Aldace Walker"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c73_1863_12_20/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Aldace Freeman Walker to Aldace Walker"
+    }
+]
+}
