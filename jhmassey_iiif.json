@@ -1,0 +1,943 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Collection",
+    "@id": "https://raw.githubusercontent.com/pwallace/iiif-manifests-for-transcription/main/jhmassey_iiif.json",
+    "label": "IIIF Collection for the JH Massey WWII letters collection at Middlebury Special Collections",
+    "manifests": [
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_057_19410704/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_058_19410710/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_059_19410711/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_060_19410715/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_061_19410720/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_062_19410723/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_063_19410728/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_05_05/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_05_10/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_05_22/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_06_13/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_06_19/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_06_25/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_07_01/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_07_14/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_07_28/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_08_06/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_08_14/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_08_20/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_09_19/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_09_23/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_10_01/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_10_06/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_10_14/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_10_29/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_11_03/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_11_18/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_11_24/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_12_18/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1941_12_29/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_01_11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_01_21/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_02_01/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_02_09/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_02_17/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_03_08/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_03_16/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_03_26/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_04_09/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_04_28/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_05_04/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_05_22/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_06_02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_06_18/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_06_28/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c55_ag_1942_07_03/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_001_19401009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_002_19401019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_004_19401101/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_005_19401110/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_006_19401124/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_007_19401130/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_008_19401207/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_009_19401214/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_010_19401217/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_011_19401229/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_012_19410103/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_014_19410114/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_015_19410128/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_016_19410130/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_017_19410203/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_018_19410209/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_019_19410215/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_020_19410301/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_021_19410305/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_023_19410313/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_024_19410316/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_025_19410317/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_026_19410323/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_027_19410325/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_028_19410328/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_029_19410329/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_030_19410402/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_031_19410408/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_032_19410412/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_033_19410418/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_034_19410420/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_035_19410421/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_036_19410426/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_037_19410427/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_038_19410501/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_039_19410503/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_041_19410512/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_042_19410514/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_043_19410518/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_044_19410523/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_045_19410528/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_046_19410528/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_047_19410603/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_048_19410605/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_049_19410610/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_050_19410611/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_051_19410616/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_052_19410616/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_053_19410620/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_054_19410625/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_055_19410628/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_056_19410701/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_064_19410802/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_065_19410804/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_068_19410820/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_069_19410826/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_070_19410907/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_071_19410911/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_072_19410918/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_074_19411002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_075_19411004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_076_19411009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_077_19411014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_078_19411020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_079_19411026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_080_19411030/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_081_19411105/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_082_19411112/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_083_19411120/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_084_19411124/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_085_19411130/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_086_19411206/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_087_19411214/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_088_19411221/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_089_19411228/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_090_19411230/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_091_19420107/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_092_19420111/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_093_19420117/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_094_19420122/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_095_19420127/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_096_19420201/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_097_19420208/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_098_19420212/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_099_19420217/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_100_19420223/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_101_19420303/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_102_19420311/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_103_19420317/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_104_19420323/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_105_19420403/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_106_19420409/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_107_19420414/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_108_19420422/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_109_19420428/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_110_194205xx/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_111_19420509/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_112_19420515/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_113_19420523/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_114_19420528/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_115_19420601/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_116_19420606/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_117_19420608/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_118_19420617/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_119_19420625/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_120_19420707/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_ag_1941_11_17/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_am_19410823/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_am_19410901/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_am_19410915/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_am_19411017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_am_19411205/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_01/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_03/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_04/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_05/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_06/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_07/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_08/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_09/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_10/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_13/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_14/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_15/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_16/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_17/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_18/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_19/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_20/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_21/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_22/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_23/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_24/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_25/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_26/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_27/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_28/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c55_massey_29/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Harry Massey to Barbara Massey"
+        }
+    ]
+}
