@@ -1,0 +1,543 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Collection",
+    "@id": "https://raw.githubusercontent.com/pwallace/iiif-manifests-for-transcription/main/womenwriters_iiif.json",
+    "label": "IIIF Collection for the 19th and 20th Century Women Writers collection at Middlebury Special Collections",
+    "manifests": [
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.blackwelle.1847.10.29/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Blackwell to Anna Q. T. Parsons, Oct. 29, 1847"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.blackwelle.1848.06.24/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Blackwell to Anna Q. T. Parsons"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.blackwelle.18xx.12.07/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Blackwell to Anna Q. T. Parsons, Dec. 7, 18--"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.botta.acl.18xx/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Anne C. Lynch Botta to \"Sir\""
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.bremerf.1862.09.16/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Fredrika Bremer to Dennis R. Alward"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.chewb.1886.01.11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Beverly Chew to \"Mr. Pierce\""
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberpa.childlm.1860.letters/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Correspondence between Lydia Maria Child and Gov. Wise and Mrs. Mason of Virginia"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.cookrt.1879.05.12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Rose Terry Cooke to Unknown"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms-eastmans-1843-07-25/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Sophia Eastman to Mehitable Eastman"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms-emersonmm-1836-03-31/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Moody Emerson to Ralph Waldo Emerson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms-emersonmm-1839-05-12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Moody Emerson to Lidian Jackson Emerson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms-emersonmm-18xx-07-03/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Moody Emerson to Edward Bliss Emerson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms-emersonmm-18xx01/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Moody Emerson to Ralph Waldo Emerson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms-emersonmm-18xx02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Moody Emerson to Charles Chauncy Emerson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms-emersonmm-18xx05/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Moody Emerson to Ralph Waldo Emerson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms-emersonmm-18xx07/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Moody Emerson to Ralph Waldo Emerson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms-emersonmm-18xx09/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Moody Emerson to Ralph Waldo Emerson or Charles Chauncey Emerson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.emersonmm.18xx03/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Moody Emerson to Charles Chauncy Emerson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.emersonmm.18xx06/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Moody Emerson to Ralph Waldo Emerson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.emersonmm.18xx08/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Moody Emerson to Ralph Waldo Emerson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.ossolismf.1839.02.21/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Margaret Fuller letter, February 21, 1839"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.ossolismf.1844/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter to Sarah Blake Sturgis Shaw"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.ossolismf.1848.0.22/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter to Mrs. Rotch"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.ossolismf.1849.12.06/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter to Elizabeth Barrett Browning"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.gilderrw.1876.04.26/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Rachel Watson Gilder to Edmund Clarence Stedman"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.gilderrw.1877.10.24/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Rachel Watson Gilder to Edmund Clarence Stedman"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.gilderrw.1882.10.30/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Rachel Watson Gilder to Edmund Clarence Stedman"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.gilderrw.1906.11.25/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Rachel Watson Gilder to Edmund Clarence Stedman"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.gouldhf.1849.11.22/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Hannah Flagg Gould to Benjamin Perley Poore"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.lippincottsjc.1854.11.17/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Grace Greenwood (Sara Jane Clarke Lippincott) to Hammatt Billings"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.lippincottsjc.1863.03.24/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Grace Greenwood (Sara Jane Clarke Lippincott) to Charles K. Gallup"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornema.18xx/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from May Albertina Amelung Hawthorne to Burrows Bros."
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornema.18xxb/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from May Albertina Amelung Hawthorne to Burrows Bros."
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.hawthornesp.1868.04.26/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Sophia Peabody Hawthorne to Rose Hawthorne Lathrop"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.hawthorneu.xx/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Una Hawthorne to Aunt Lizzie"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.hoxiel.1847.07.18/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Lizzie Hoxie to Marianne Dwight Orvis"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.jewettso.02.27/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Sarah Orne Jewett to Edward Henry Clement"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.jewettso.11.20/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Sarah Orne Jewett to William Hayes Ward"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.jewettso.1890.08.21/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Sarah Orne Jewett to William Hayes Ward, Aug. 21, 1890"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.jewettso.1896.04.20_images/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Sarah Orne Jewett to Edward Henry Clement"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.jewettso.xx/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Sarah Orne Jewett to Elizabeth Stuart Phelps"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.jewettso.xx2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Sarah Orne Jewett to William Hayes Ward"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.larcoml.1888.08.16/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Lucy Larcom to the Editor, New York Independent"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.lathroprh.18xx.04.12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Rose Hawthorne Lathrop to Unknown"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.lathroprh.18xx.06.02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Rose Hawthorne Lathrop to Roberts Brothers"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.osgoodfsl.xx/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Frances Sargent Lock Osgood to James Thomas Fields"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.palermaf.1891.12.24/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Alice Freeman Palmer to Frederick Holland Day"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.parsonsannaqt.1846.03.04/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Anna Q. T. Parsons to Marianne Dwight Orvis"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.peabodyep.1837.06.02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Palmer Peabody to Rebecca Amory Lowell"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.peabodyep.1840.05.01/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Palmer Peabody to Rebecca Amory Lowell"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.searsg.1848.01.23/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Gertrude Sears to Anna Q. T. Parsons"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.sherwoodmew.1865.07.06/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Elizabeth Wilson Sherwood to Mr. Ruggles"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.sherwoodmew.18xx.01.12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Elizabeth Wilson Sherwood to Unknown"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.sigourneylhh.1851.03.08/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Lydia Howard Huntley Sigourney to Unknown"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.stoddardedb.1889.08.28/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Drew Barstow Stoddard to John Eliot Bowen"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.stoddardedb.1889.09.09/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Drew Barstow Stoddard to John Eliot Bowen"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.stoddardedb.1889.09.13/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Drew Barstow Stoddard to John Eliot Bowen"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.stoddardedb.1897.04.14/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Drew Barstow Stoddard to Edmund Clarence Stedman"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.stoddaredb.1889.10.29/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Drew Barstow Stoddard to John Eliot Bowen"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18790331/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18800703/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18801116/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18810731/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18841208/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18881005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18920207/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18921026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18930419/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18941126/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18950809/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18960115/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18960708/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18960729/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18960904/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18961205/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_18970515/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_19001030/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_xxxx0122/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_xxxx0210/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_xxxx0504/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_xxxx0628/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_xxxx0804/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_xxxx0818/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_xxxx1130/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcht_c9_114_xxxxxxxx/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Elizabeth Stoddard to Julia C Dorr"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.stoddardrh.1864.11.26/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Richard Henry Stoddard to Unknown"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.stoddardrh.1889.04.04/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Richard Henry Stoddard to John Eliot Bowen"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.stoddardrh.1900.11.27/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Richard Henry Stoddard to Rossiter Johnson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.thaxterc.1889.04.17/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Celia Thaxter to Mr. Stedman"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.thomasem.1883.09.25/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Edith Matilda Thomas to John E. Bowen"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.thomasem.1884.10.05/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Edith Matilda Thomas to Henry Chandler Bowen"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.thomasem.1885.06.13/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Edith Matilda Thomas to Henry Chandler Bowen"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.thomasem.1894.01.15/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Edith Matilda Thomas to Joseph Marshall Stoddart"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.whitingl.1890.04.30/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Lilian Whiting to Mr. Marshall"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.whitneyadt.1886.05.07/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Adeline Dutton Train Whitney to Charles Addison Richardson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.wilcoxew.1894.03/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ella Wheeler Wilcox to Joseph Marshall Stoddart, March 1894"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.wilcoxew.xx/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ella Wheeler Wilcox to Joseph Marshall Stoddart"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/a9ms.1808.rockwoodc.18141023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Emma Willard to Louisa Foote"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.willarde.1846.11.07/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Emma Willard to Dr. Jonathan A. Allen"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.woolseysc.xx/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Sara Chauncey Woolsey to Miss Booth"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.barraeh.1913.05.06/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Amelia Edith Huddleston Barr to Mr. Stoddart"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.catherw.xx/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Willa Cather to Unknown"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c5_catherws_19xx_02_11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Willa Cather to Marguerite Wilkinson"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/c7_catherw_19xx_07_02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Willa Cather to Wilfred Edward Davison"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.reppliera.1934.04.29/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Agnes Repplier to Mr. de Navarro"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/aberms.rooseveltekc.1940.11.16/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Edith Kermit Carow Roosevelt to Mrs. Edward Woike"
+        },
+        {
+            "@id": "http://iiif.archivelab.org/iiif/mcman_c5.4.aldingtonr.19200710/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Marguerite Wilkinson to Richard Aldington"
+        }
+    ]
+}
