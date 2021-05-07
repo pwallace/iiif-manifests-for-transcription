@@ -1,0 +1,843 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/pwallace/iiif-manifests-for-transcription/main/HemigwayFamilyArchive_iiif.json",
+	"@type": "sc:Collection",
+	"label": "IIIF Collection for the Hemingway Family archive at Middlebury College Special Collections.",
+	"manifests": [
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_FR_17_19370818_001/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelope addressed to Ernest Hemingway from Ivan Beede"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_FR_21_19370818_001/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelope addressed to Ernest Hemingway from Curtis Brown"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_48_19360725/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Ernest Hemingway from Orlando Ferrer"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_CU_42_19350323-19351004/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Telegrams from F. Scott Fitzgerald to Arnold Gingrich"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_AR_03_19361107_001/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelope forwarded to Ernest Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_CU_07_19420613/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Grace Hall Hemingway from Martha Gelhorn"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_CU_08/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelope addressed to Grace Hall Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_15_18950806/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Caroline Hancock to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_122_18960503/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_123_18960507/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_124_18960510/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_125_18960513/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_126_18960517/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_127_18960520-21/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_128_18960524/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_129_18960528-31/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_130_18920913/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_27_18960105/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_28_18960117/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_29_18960118/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_31_18950120/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_32_18960121/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_33_18960122/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_34_18960124/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_35_18960125/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_36_18960126/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_37_18960127-28/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_38_18960128/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_39_18960129/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_02/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Ernest Hemingway from Grace Hall Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_100_18960309/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_101_18960310/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_102_18960312/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_103_18960313/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_104_18960314/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_105_18960315/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_106_18960316/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_107_18960317/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_108_18960318/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_109_18960319/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_110_18960320/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_111_18960321/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_112_18960322/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_113_18960323/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_114_18960324/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_115_18960328/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_116_18960329/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_117_18960330/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_118_18960331/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_119_18960401/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_120_18960403/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_121_18960404/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_122_18960404/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_123_18960408/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_124_18960409/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_124_18960410/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_125_18960422/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_126_18960425/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_39_18951205/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_40_18951205/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_41_18951207/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_42_18951213/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_43_18951219/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_44_18951222/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_45_18960106/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_46_18960107/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_47_18960108/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_48_18960110/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_49_18960110/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_50_18960112/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_51_18960113/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_52_18960114/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_53_18960115/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_54_18960116/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_55_18960117/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_56_18960118/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_57_18960120/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_58_18960122/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_59_18960123/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_60_18960124/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_61_18960125/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_62_18960126/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_63_18960127/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_64_18960128/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_65_18960130/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_66_18960131/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_67_18960203/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_68_18960204/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_69_18960205/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_70_18960207/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_72_18960211/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_73_18960212/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_74_18960213/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_75_18960214/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_76_18960214/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_77_18960217/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_78_18960218/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_79_18960219/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_80_18960219/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_81_18960220/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_82_18960222/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_83_18960223/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_84_18960223/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_85_18960224/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_86_18960225/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_87_18960226/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_88_18960227/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_89_18960228/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_90_18960229/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_92_18960301/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_93_18960302/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_94_18960303/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_95_18960304/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_96_18960305/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_97_18960305/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_98_18960306/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ceh_99_18960307-08/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_01_18900609/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_03_18920905/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Clarence Edmonds Hemingway to Grace E. Hall"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_18_18951105/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_19_18951105/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_20_18951109/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_21_18951113/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_22_18951115/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_23_18951116/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_24_18951118/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_25_18951125/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/c50_iii_ghh_26_18951129/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c50_iii_ceh_131_18960503-04/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c50_iii_ceh_132_18960507/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c50_iii_ceh_133_18960510/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c50_iii_ceh_134_18960514/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c50_iii_ceh_135_18960521/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c50_iii_ceh_136_18960524/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c50_iii_ceh_137_18960526/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c50_iii_ceh_138_18960528/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c50_iii_ceh_139_18960607-08/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c50_iii_ceh_140_18960610/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_c50_iii_ceh_141_18960626/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Grace E. Hall to Clarence Edmonds Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_46_19360727/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Ernest Hemingway from the IRS"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C131b1f18_1840_04_20/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Oliver Johnson to Rowland T. Robinson"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_FR_04_xxxx1021/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hadley Hemingway to her family"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_FR_07_19240410/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hadley Hemingway to her mother"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_FR_08_19250320/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hadley Hemingway to her parents"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_AF_04_1934/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelope addressed to Ernest Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_39_19360910-19390622/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelopes addressed to Ernest Hemingway in Key West"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_42_19360813/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Ernest Hemingway from Miriam"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_47_19360727/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Fan letter to Ernest Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_52_1934/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelopes addressed to Ernest Hemingway in Key West"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_56_19311006-19380203/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelopes addressed to Ernest Hemingway in Key West"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_SP_12_19371013_001/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelope addressed to Ernest Hemingway from Mayor's office in Baltimore"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_SP_15_19330904/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelope addressed to Ernest Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_SP_16/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelopes addressed to Ernest Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_SV_08_19300626-19360908/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelopes addressed to Ernest Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_SV_10_19360728-19360827/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelopes addressed to Ernest Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_SV_11_19360728-19360904/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelopes addressed to Ernest Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_SV_12_19360803/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelopes addressed to Ernest Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_FR_19_19360709_001/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Ernest Hemingway from Mrs. J. P. Newell"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_43_19360918_001/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Ernest Hemingway from the Non-Partisan Committee for the Re-Election of Congressman Vito Marcantonio"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_SV_09_19360810-19360901/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelopes addressed to Ernest Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_06_19410202_001/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Grace Hall Hemingway from Pauline Hemingway"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_49_19350610_001/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Ernest Hemingway from L. H. S. Robson"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_KW_55_19330106-19370701/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelopes addressed to Ernest Hemingway aboard the yacht Pilar"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_BI_04_19360902/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Ernest Hemingway from Arthur Sherman"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/mcht_C131_b40_f11_18640905/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter from Treasury Dept., dated 1894-09-05"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_FR_18_1937/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Envelope addressed to Ernest Hemingway from United Press International"
+    },
+    {
+        "@id": "http://iiif.archivelab.org/iiif/C50_I_EMH_CU_25_19341114/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Letter to Ernest Hemingway from Wheeler Shipyard, Inc. "
+    }
+]
+}
