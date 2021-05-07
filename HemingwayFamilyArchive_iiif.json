@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://raw.githubusercontent.com/pwallace/iiif-manifests-for-transcription/main/HemigwayFamilyArchive_iiif.json",
+	"@id": "https://raw.githubusercontent.com/pwallace/iiif-manifests-for-transcription/main/HemingwayFamilyArchive_iiif.json",
 	"@type": "sc:Collection",
 	"label": "IIIF Collection for the Hemingway Family archive at Middlebury College Special Collections.",
 	"manifests": [
