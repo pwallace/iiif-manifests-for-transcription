@@ -1,0 +1,268 @@
+{
+    "@context": "https://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Collection",
+    "@id": "https://raw.githubusercontent.com/pwallace/iiif-manifests-for-transcription/main/c99_hackett_iiif.json",
+    "label": "IIIF Collection for the Ephraim Hackett Civil War Letters collection at Internet Archive",
+    "manifests": [
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918620621/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1862-06-21"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918630606/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-06-06"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C9918580801_02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from B. E. Luce to Ephraim Hackett, dated -15126"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C9918581010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Nathaniel Hackett to Ephraim Hackett, dated 1858-10-10"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918641011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Henry Hackett, dated 1864-10-11"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918630916/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-09-16"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918630725/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-07-25"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C9918581101/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Hannah L. D. to Ephraim Hackett, dated 1858-11-01"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C9918580801/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from B. E. Luce to Ephraim Hackett, dated 1858-08-01"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918631005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-10-05"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918630305/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-03-05"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918650423/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from F.B.S.H. Baldwin to Nathaniel Hackett, dated 1865-04-23"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C99XXXX0123/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from B. E. Luce to Ephraim Hackett"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918650502/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1865-05-02"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C99XXXX0830/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Unknown to Ephraim Hackett"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918630209/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-02-09"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918640719/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1864-07-19"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918630525/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-05-25"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918620216/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1862-02-16"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918630224/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-02-24"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918630620/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-06-20"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918650520/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1865-05-20"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918640811/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1864-08-11"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C99XXXX1112/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from B. E. Luce to Nathaniel Hackett"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918631029/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-10-29"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C9918580719/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Hannah L. D. to Ephraim Hackett, dated 1858-07-19"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C99XXXX0420/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from B. E. Luce to Ephraim Hackett"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918650314/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1865-03-14"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918650418/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1865-04-18"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918590529/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Luce to Ephraim Hackett, dated 1859-05-29"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C99XXX0813/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Mary Luce to Ephraim Hackett"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C9918610922/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1861-09-22"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C9918580929/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from B. E. Luce to Ephraim Hackett, dated 1858-09-29"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918630831/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-08-31"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918650919/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Henry Hackett, dated 1865-09-19"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918611101/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1861-11-01"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918650924/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1865-09-24"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C9918581011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from B. E. Luce to Ephraim Hackett, dated 1858-10-11"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918630527/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-05-27"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918631010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-10-10"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918640918/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1864-09-18"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918650407/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1865-04-07"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_C99ND/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from J.M. Luce to Ephraim Hackett"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918620728/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1862-07-28"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918650212/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1865-02-12"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918640407/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1864-04-07"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918640603/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1864-06-03"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918650106/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1865-01-06"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918600824/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from B. E. Luce to Ephraim Hackett, dated 1860-08-24"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918630418/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-04-18"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918631109/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1863-11-09"
+        },
+        {
+            "@id": "https://iiif.archivelab.org/iiif/mcht_c9918740303/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Letter from Ephraim Hackett to Nathaniel Hackett, dated 1874-03-03"
+        }
+    ]
+}
